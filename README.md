@@ -58,6 +58,7 @@ Le tout est montée sur un docker-compose afin de pouvoir être déployé facile
 
 
 <!-- GETTING STARTED -->
+## Getting Started
 ### Prerequisites
 
 Pour commencer, il faut avoir installé docker et docker-compose sur votre machine.
