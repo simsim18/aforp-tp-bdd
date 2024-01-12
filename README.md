@@ -48,7 +48,6 @@ Le but de ce projet est de créer une base de données permetant une évalution 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
 Ce projet est basée sur le SGBD PostgreSQL et est écrit en SQL.
@@ -56,7 +55,6 @@ Ce projet est basée sur le SGBD PostgreSQL et est écrit en SQL.
 Le tout est montée sur un docker-compose afin de pouvoir être déployé facilement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -70,7 +68,8 @@ Le port 80 doit être libre sur votre machine.
 
 1. Cloner le repo
    ```sh
-   git clone
+   git clone https://github.com/simsim18/aforp-tp-bdd.git
+   ```
 
 2. Accédez à PG-ADMIN à l'adresse suivante [http://localhost](http://localhost)
 
@@ -88,13 +87,16 @@ Vous pouvez ensuite effectuer des requêtes SQL sur la base de données.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- LICENSE -->
 ## License
 
 Code réalisé dans un cadre scolaire pour l'AFORP.
+
 Utilisation libre dans un cadre universitaire à vue pédagogique et but non lucratif.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
